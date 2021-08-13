@@ -5,6 +5,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+.color{
+    font-size: 18px;
+}
 body{
     font-family: 'Montserr}at', sans-serif;
     background: #3c1053;
